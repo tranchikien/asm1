@@ -45,7 +45,7 @@ class WaterBillCalculator
 
     static string GetCustomerType()
     {
-        Console.WriteLine("Select customer type:");
+        Console.WriteLine("List customer type:");
         Console.WriteLine("1. Household");
         Console.WriteLine("2. Administrative");
         Console.WriteLine("3. Production");
