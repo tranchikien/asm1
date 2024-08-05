@@ -1,0 +1,12 @@
+D:\C#\lomcom\obj\Debug\lomcom.csproj.AssemblyReference.cache
+D:\C#\lomcom\obj\Debug\lomcom.MainForm.resources
+D:\C#\lomcom\obj\Debug\lomcom.BillForm.resources
+D:\C#\lomcom\obj\Debug\lomcom.Properties.Resources.resources
+D:\C#\lomcom\obj\Debug\lomcom.csproj.GenerateResource.cache
+D:\C#\lomcom\obj\Debug\lomcom.csproj.CoreCompileInputs.cache
+D:\C#\lomcom\bin\Debug\lomcom.exe.config
+D:\C#\lomcom\bin\Debug\lomcom.exe
+D:\C#\lomcom\bin\Debug\lomcom.pdb
+D:\C#\lomcom\obj\Debug\lomcom.exe
+D:\C#\lomcom\obj\Debug\lomcom.pdb
+D:\C#\lomcom\obj\Debug\lomcom.Login.resources
